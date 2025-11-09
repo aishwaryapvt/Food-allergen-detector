@@ -1,0 +1,12 @@
+code,product_name,ingredients_text,allergens,allergens_tags,languages_tags,clean_ingredients,detected_allergens,true_allergens,egg,gluten,milk,peanuts,shellfish,soy,tree nuts
+1,Chocolate Cake,"wheat flour, sugar, cocoa powder, milk solids, egg, butter","milk, egg, gluten","en:milk,en:egg,en:gluten",en,"wheat flour, sugar, cocoa powder, milk solids, egg, butter",['gluten'],"['milk', 'egg', 'gluten']",1,1,1,0,0,0,0
+2,Peanut Butter,"roasted peanuts, salt, vegetable oil",peanuts,en:peanuts,en,"roasted peanuts, salt, vegetable oil",[],['peanuts'],0,0,0,1,0,0,0
+3,Protein Shake,"soy protein isolate, cocoa, milk solids, flavoring","soy, milk","en:soy,en:milk",en,"soy protein isolate, cocoa, milk solids, flavoring",['soy'],"['soy', 'milk']",0,0,1,0,0,1,0
+4,Ice Cream,"milk, cream, sugar, vanilla extract",milk,en:milk,en,"milk, cream, sugar, vanilla extract",[],['milk'],0,0,1,0,0,0,0
+5,Energy Bar,"oats, honey, almonds, dried fruits, soy lecithin","tree nuts, soy","en:tree-nuts,en:soy",en,"oats, honey, almonds, dried fruits, soy lecithin","['tree nuts', 'gluten']","['tree nuts', 'soy']",0,0,0,0,0,1,1
+6,Bread,"whole wheat flour, yeast, salt, water",gluten,en:gluten,en,"whole wheat flour, yeast, salt, water",['gluten'],['gluten'],0,1,0,0,0,0,0
+7,Cheese Pizza,"wheat flour, cheese, tomato sauce, yeast","milk, gluten","en:milk,en:gluten",en,"wheat flour, cheese, tomato sauce, yeast",['gluten'],"['milk', 'gluten']",0,1,1,0,0,0,0
+8,Granola,"oats, honey, dried fruits, nuts",tree nuts,en:tree-nuts,en,"oats, honey, dried fruits, nuts",['gluten'],['tree nuts'],0,0,0,0,0,0,1
+9,Tofu Stir Fry,"tofu, soy sauce, vegetables, sesame oil",soy,en:soy,en,"tofu, soy sauce, vegetables, sesame oil",['soy'],['soy'],0,0,0,0,0,1,0
+10,Shrimp Pasta,"shrimp, wheat noodles, garlic, butter, milk","shellfish, gluten, milk","en:shellfish,en:gluten,en:milk",en,"shrimp, wheat noodles, garlic, butter, milk",['shellfish'],"['shellfish', 'gluten', 'milk']",0,1,1,0,1,0,0
+dir data_raw,,,,,,,[],[],0,0,0,0,0,0,0

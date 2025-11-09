@@ -1,0 +1,13 @@
+code,product_name,ingredients_text,allergens,allergens_tags,languages_tags
+1,Chocolate Cake,"wheat flour, sugar, cocoa powder, milk solids, egg, butter","milk, egg, gluten","en:milk,en:egg,en:gluten","en"
+2,Peanut Butter,"roasted peanuts, salt, vegetable oil","peanuts","en:peanuts","en"
+3,Protein Shake,"soy protein isolate, cocoa, milk solids, flavoring","soy, milk","en:soy,en:milk","en"
+4,Ice Cream,"milk, cream, sugar, vanilla extract","milk","en:milk","en"
+5,Energy Bar,"oats, honey, almonds, dried fruits, soy lecithin","tree nuts, soy","en:tree-nuts,en:soy","en"
+6,Bread,"whole wheat flour, yeast, salt, water","gluten","en:gluten","en"
+7,Cheese Pizza,"wheat flour, cheese, tomato sauce, yeast","milk, gluten","en:milk,en:gluten","en"
+8,Granola,"oats, honey, dried fruits, nuts","tree nuts","en:tree-nuts","en"
+9,Tofu Stir Fry,"tofu, soy sauce, vegetables, sesame oil","soy","en:soy","en"
+10,Shrimp Pasta,"shrimp, wheat noodles, garlic, butter, milk","shellfish, gluten, milk","en:shellfish,en:gluten,en:milk","en"
+
+dir data_raw

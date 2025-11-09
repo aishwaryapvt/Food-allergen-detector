@@ -1,0 +1,15 @@
+torch>=2.0.0
+transformers>=4.44.2
+datasets>=2.20.0
+sentencepiece
+scikit-learn
+pandas
+numpy
+fastapi
+uvicorn
+python-multipart
+tqdm
+requests
+rapidfuzz
+langdetect
+
